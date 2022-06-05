@@ -1,3 +1,18 @@
 {
-  "songs": []
+  "songs": [
+   {
+      "title": "enchanted",
+      "artist": "adro & btwrks",
+      "coverImg": "https://github.com/Stylish-XD/Music-app-api/blob/master/song-images/Raiden_Shogun_3.jpg",
+      "songSrc": "https://github.com/Stylish-XD/Music-app-api/blob/master/songs/Adro%20%26%20BTWRKS%20-%20Enchanted%20(Magic%20Free%20Release).mp3",
+      "id": 1
+    },
+    {
+      "title": "scared",
+      "artist": "sabai",
+      "coverImg": "https://github.com/Stylish-XD/Music-app-api/blob/master/song-images/Raiden_Shogun_4.jpg",
+      "songSrc": "https://github.com/Stylish-XD/Music-app-api/blob/master/songs/Sabai%20-%20Scared%20%5BMonstercat%20Release%5D.mp3",
+      "id": 2
+    }
+  ]
 }
