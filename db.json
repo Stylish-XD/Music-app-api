@@ -1,18 +1,3 @@
 {
-  "songs": [
-    {
-      "title": "enchanted",
-      "artist": "adro & btwrks",
-      "coverImg": "./song-images/Raiden_Shogun_3.jpg",
-      "songSrc": "./songs/Adro & BTWRKS - Enchanted (Magic Free Release).mp3",
-      "id": 1
-    },
-    {
-      "title": "scared",
-      "artist": "sabai",
-      "coverImg": "./song-images/Raiden_Shogun_4.jpg",
-      "songSrc": "./songs/Sabai - Scared [Monstercat Release].mp3",
-      "id": 2
-    }
-  ]
+  "songs": []
 }
